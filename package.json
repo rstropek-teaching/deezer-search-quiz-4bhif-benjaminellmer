@@ -1,0 +1,25 @@
+{
+  "name": "deezer-search-quiz-4bhif-benjaminellmer",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to setup a project for compiling a TypeScript program. You will get a ready-made website that can be used to search music tracks on [Deezer](https://www.deezer.com/). It uses [Deezer's free, public music search API](https://developers.deezer.com/api/search). The provided website consists of the following parts:",
+  "main": "cors-proxy.js",
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  },
+  "devDependencies": {
+    "cors-anywhere": "^0.4.0"
+  },
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstropek-teaching/deezer-search-quiz-4bhif-benjaminellmer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstropek-teaching/deezer-search-quiz-4bhif-benjaminellmer/issues"
+  },
+  "homepage": "https://github.com/rstropek-teaching/deezer-search-quiz-4bhif-benjaminellmer#readme"
+}
